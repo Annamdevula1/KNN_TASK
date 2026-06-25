@@ -2,7 +2,7 @@
 # K-Nearest Neighbors (KNN) Classification
 
 ## Dataset
-Iris Dataset
+IRIS-IRIS.csv
 
 ## Tools Used
 - Python
